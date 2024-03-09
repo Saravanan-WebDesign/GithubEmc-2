@@ -1,0 +1,2 @@
+
+import to vscode in git id(Git Clone)  and repositray Code path
